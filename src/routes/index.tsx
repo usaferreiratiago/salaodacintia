@@ -123,14 +123,14 @@ function Home() {
               className="mt-10 flex flex-wrap gap-4"
             >
               <Link
-                to=".."
+                to="/contato"
                 className="group inline-flex items-center gap-3 rounded-sm bg-orange-700 px-6 py-3.5 text-sm font-medium text-white transition hover:bg-orange-800 dark:hover:bg-orange-500 shadow-md"
               >
                 Solicitar Orçamento
                 <ArrowUpRight className="h-4 w-4 transition group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
               </Link>
               <Link
-                to=".."
+                to="/portfolio"
                 className="inline-flex items-center gap-3 rounded-sm border dark:border-zinc-50/20 px-6 py-3.5 text-sm font-medium text-zinc-900 transition hover:border-zinc-900 dark:hover:border-zinc-50 hover:bg-zinc-900/5 dark:hover:bg-zinc-50/5"
               >
                 Ver Portfólio
