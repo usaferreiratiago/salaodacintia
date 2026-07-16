@@ -26,34 +26,34 @@ export const Route = createFileRoute()({
 
 const testimonials = [
   {
-    q: "A SALAO CINTIA superou todas as nossas expectativas. Cada detalhe foi cuidadosamente planejado e nosso casamento ficou exatamente como sempre sonhamos.",
-    a: "Marcos Souza",
-    r: "Noivo · Belo Horizonte/MG",
+    q: "Sempre saio do Salão Cíntia me sentindo mais bonita e confiante. O atendimento é impecável e o resultado supera minhas expectativas em cada visita.",
+    a: "Mariana Souza",
+    r: "Cliente há 5 anos",
   },
   {
-    q: "Desde o primeiro contato sentimos segurança e profissionalismo. A organização foi impecável e pudemos aproveitar nossa festa sem nos preocupar com nada.",
-    a: "Ana Costa Assis",
-    r: "Aniversário de 15 anos · Santa Luzia/MG",
+    q: "Encontrei um lugar onde realmente entendem o que eu quero. Meu cabelo ficou saudável, moderno e exatamente como imaginei.",
+    a: "Patrícia Almeida",
+    r: "Corte e Coloração",
   },
   {
-    q: "Criatividade, bom gosto e atenção aos mínimos detalhes. Recebemos inúmeros elogios dos convidados e viveríamos tudo novamente.",
-    a: "Carlos Augusto Pereira",
-    r: "Evento Corporativo · Belo Horizonte/MG",
+    q: "Além do excelente atendimento, o ambiente é acolhedor e muito agradável. É um momento de cuidado comigo mesma que faço questão de repetir.",
+    a: "Fernanda Costa",
+    r: "Escova e Tratamento Capilar",
   },
   {
-    q: "A equipe cuidou de toda a produção com muita dedicação. O resultado foi uma celebração sofisticada, emocionante e inesquecível para nossa família.",
-    a: "Márcia Loureiro",
-    r: "Casamento · Estados Unidos",
+    q: "Fiz minhas luzes e o resultado ficou simplesmente maravilhoso. Recebi muitos elogios e meu cabelo permaneceu saudável e brilhante.",
+    a: "Juliana Pereira",
+    r: "Mechas e Hidratação",
   },
   {
-    q: "Organização impecável, fornecedores de qualidade e um atendimento extremamente atencioso. Foi muito além do que imaginávamos.",
-    a: "Sara Medeiros",
-    r: "Evento Particular · Portugal",
+    q: "A Cíntia é extremamente atenciosa e detalhista. Ela explica cada procedimento e transmite muita segurança durante todo o atendimento.",
+    a: "Carla Mendes",
+    r: "Coloração",
   },
   {
-    q: "Cada detalhe refletia nosso estilo e personalidade. A SALAO CINTIA transformou nossas ideias em um evento elegante e memorável.",
-    a: "Guilherme Andrade",
-    r: "Formatura · Espanha",
+    q: "Mais do que um salão, encontrei profissionais que realmente se preocupam com a beleza e a autoestima de cada cliente. Recomendo de olhos fechados.",
+    a: "Renata Oliveira",
+    r: "Cliente fiel",
   },
 ];
 
@@ -89,9 +89,9 @@ function Clientes() {
       </div>
 
       <PageHeader
-        eyebrow="— 04 / Clientes"
-        title="Momentos inesquecíveis contados por quem viveu essa experiência."
-        intro="Conheça os relatos de clientes que confiaram à SALAO CINTIA a missão de transformar seus sonhos em celebrações únicas, elegantes e memoráveis."
+        eyebrow="— 04 / Depoimentos"
+        title="Histórias de autoestima, beleza e confiança."
+        intro="Conheça os relatos de clientes que confiaram no Salão Cíntia para transformar seu visual com cuidado, dedicação e muito profissionalismo."
       />
 
       <section className="bg-zinc-50 dark:bg-zinc-900/40 py-12 sm:py-16 lg:py-28 text-zinc-900 dark:text-zinc-50 transition-colors duration-300">

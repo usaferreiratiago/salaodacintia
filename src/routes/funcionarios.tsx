@@ -41,10 +41,10 @@ export const Route = createFileRoute()({
 // Mock com a lista de funcionários
 const allStaff = [
   {
-    img: f5,
-    name: "SALAO CINTIA",
-    role: "Cerimonialista  e Produção de Eventos",
-    info: "Esp. em Festas e Eventos • Atendimento presencial e online",
+    img: f1,
+    name: "CÍNTIA",
+    role: "Empreendedora • Cabeleireira e Especialista em Beleza",
+    info: "Especialista em cortes, coloração e transformação da autoestima",
     year: "+15 anos",
   },
   // {
@@ -105,9 +105,9 @@ function Funcionarios() {
       </div>
 
       <PageHeader
-        eyebrow="— Nossa Equipe"
-        title="O capital humano por trás de cada atendimento realizado."
-        intro="Psicólogos e profissionais da saúde mental dedicados a transformar sofrimento emocional em compreensão, equilíbrio e bem-estar, com escuta qualificada e acolhimento em cada processo terapêutico"
+        eyebrow="— Nossa História"
+        title="Beleza, autoestima e cuidado em cada atendimento."
+        intro="Com dedicação, técnica e paixão pela beleza, transformamos cada atendimento em uma experiência única. Nosso compromisso é valorizar a autoestima, realçar a beleza natural e oferecer um ambiente acolhedor, onde cada cliente se sente especial do início ao fim."
       />
 
       <section className="py-12 sm:py-16 lg:py-24 bg-white dark:bg-zinc-950 text-zinc-900 dark:text-zinc-100 transition-colors duration-300">
