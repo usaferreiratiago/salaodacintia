@@ -40,20 +40,36 @@ export const Route = createFileRoute()({
 // Mock configurado com os IDs dos vídeos (os títulos servem como fallback inicial)
 const allProjects = [
   {
-    id: "iOgXmM1SDJE",
+    id: "-03v6McPLTE",
     platform: "youtube",
     title: "Celebrações personalizadas e inesquecíveis — SALAO CINTIA",
     type: "Evento",
     year: "",
-    url: "https://www.youtube.com/watch?v=iOgXmM1SDJE",
+    url: "https://www.youtube.com/watch?v=-03v6McPLTE",
   },
   {
-    id: "DSnXbJDkUTo",
+    id: "DXPaQCOAuaJ",
     platform: "instagram",
-    title: "Momentos especiais — SALAO CINTIA",
+    title: "Inspiração  — SALAO CINTIA",
     type: "Evento",
     year: "",
-    url: "https://www.instagram.com/p/DSnXbJDkUTo/",
+    url: "https://www.instagram.com/p/DXPaQCOAuaJ/",
+  },
+  {
+    id: "DYNSjd_RfUg",
+    platform: "instagram",
+    title: "Momentos Especiais  — SALAO CINTIA",
+    type: "Evento",
+    year: "",
+    url: "https://www.instagram.com/p/DYNSjd_RfUg",
+  },
+  {
+    id: "C9gWeqKsHmX",
+    platform: "instagram",
+    title: "Inspiração — SALAO CINTIA",
+    type: "Evento",
+    year: "",
+    url: "https://www.instagram.com/p/C9gWeqKsHmX",
   },
 ];
 
@@ -218,8 +234,8 @@ function Videos() {
       </div>
       <PageHeader
         eyebrow="— 07 / Vídeos"
-        title="Inspiração para celebrações únicas e memoráveis."
-        intro="Explore nossos vídeos e descubra como transformamos sonhos em eventos exclusivos. Casamentos, aniversários, eventos corporativos e celebrações planejadas com sofisticação, criatividade e atenção a cada detalhe."
+        title="Beleza, confiança e transformação em cada atendimento."
+        intro="Cada cliente tem uma história, e nosso propósito é realçar sua beleza com carinho, técnica e excelência. Assista aos nossos vídeos e descubra como transformamos autoestima em sorrisos através de cortes, colorações, penteados e cuidados personalizados."
       />
       <section className="py-12 sm:py-16 lg:py-24 bg-white dark:bg-zinc-950 text-zinc-900 dark:text-zinc-100 transition-colors duration-300">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">

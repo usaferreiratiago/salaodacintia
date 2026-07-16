@@ -180,7 +180,7 @@ function Contato() {
                     Endereço
                   </div>
                   <div className="mt-1 font-display text-lg sm:text-xl leading-snug text-zinc-900 dark:text-zinc-200">
-                    Av. Doutor José de Magalhães Pinto, 1977
+                    Av. Gov. José de Magalhães Pinto, 1977
                     <br />
                     Giovanini, Cel. Fabriciano - MG
                     <br />
@@ -252,7 +252,7 @@ function Contato() {
             </Field>
 
             <Field
-              label="Conte um pouco sobre o que você está vivendo"
+              label="Conte um pouco sobre o visual que você deseja transformar."
               error={formState.errors.mensagem?.message}
             >
               <textarea
@@ -289,20 +289,9 @@ function Contato() {
 
               {/* Novos Botões de Redes Sociais */}
               <div className="flex flex-col gap-3 sm:flex-row sm:items-center pt-2 border-t border-zinc-200 dark:border-zinc-800">
-                {/* Botão: LinkedIn */}
-                <a
-                  href="https://linkedin.com/in/carmelitamesquita" /* Substitua com o link correto */
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="group inline-flex w-full items-center justify-center gap-3 rounded-sm border border-blue-600/30 bg-blue-50/50 hover:bg-blue-600 dark:border-blue-500/20 dark:bg-blue-950/20 dark:hover:bg-blue-600 px-6 py-3 text-sm font-medium text-blue-700 dark:text-blue-400 hover:text-white dark:hover:text-white transition-all md:w-auto cursor-pointer"
-                >
-                  <Linkedin className="h-4 w-4" />
-                  LinkedIn
-                </a>
-
                 {/* Botão: Instagram */}
                 <a
-                  href="https://instagram.com/salaodacintia1711" /* Substitua com o link correto */
+                  href="https://instagram.com/salaodacintia2024" /* Substitua com o link correto */
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group inline-flex w-full items-center justify-center gap-3 rounded-sm border border-pink-600/30 bg-pink-50/50 hover:bg-pink-600 dark:border-pink-500/20 dark:bg-pink-950/20 dark:hover:bg-pink-600 px-6 py-3 text-sm font-medium text-pink-700 dark:text-pink-400 hover:text-white dark:hover:text-white transition-all md:w-auto cursor-pointer"
