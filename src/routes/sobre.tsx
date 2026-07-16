@@ -90,32 +90,32 @@ function Sobre() {
             <p className="text-base leading-relaxed text-zinc-700 dark:text-zinc-300 md:text-lg">
               A{" "}
               <strong className="text-zinc-900 font-semibold dark:text-zinc-50">
-                SALAO CINTIA
+                SALÃO CÍNTIA
               </strong>{" "}
-              nasceu com um propósito simples: transformar sonhos em celebrações
-              inesquecíveis. Há mais de 15 anos, criamos eventos que unem
-              elegância, criatividade e emoção, construindo relações de
-              confiança e realizando momentos que permanecem na memória de cada
-              cliente e de seus convidados.
+              nasceu da minha paixão por cuidar da autoestima e realçar a beleza
+              de cada cliente. Há mais de 15 anos, dedico minha trajetória a
+              oferecer um atendimento humanizado, técnicas atualizadas e um
+              ambiente acolhedor, onde cada pessoa se sente valorizada e sai
+              ainda mais confiante.
             </p>
             <p className="text-base leading-relaxed text-zinc-600 dark:text-zinc-400 font-medium dark:font-normal">
-              Nossa equipe acompanha cada etapa da organização do evento — do
-              planejamento inicial à execução de cada detalhe — com dedicação,
-              profissionalismo e um atendimento personalizado. Cada celebração é
-              desenvolvida de forma exclusiva, garantindo uma experiência
-              sofisticada, harmoniosa e verdadeiramente memorável.
+              Acredito que cada cabelo conta uma história e merece um cuidado
+              exclusivo. Por isso, acompanho de perto cada atendimento, buscando
+              entender o estilo, a personalidade e os objetivos de cada cliente.
+              Meu compromisso é entregar resultados que unem beleza, saúde dos
+              fios e satisfação, sempre com carinho, profissionalismo e atenção
+              aos mínimos detalhes.
             </p>
 
             {/* Grid de Benefícios/Tags */}
             <ul className="grid grid-cols-1 gap-3 pt-4 sm:grid-cols-2 target-list">
               {[
-                "CNPJ 00.000.000/0000-00",
-                "Sede em Coronel Fabriciano/MG",
-                "Mais de 15 anos criando experiências memoráveis",
-                "Equipe especializada em eventos de alto padrão",
-                "Planejamento, produção e cerimonial completos",
-                "Atendimento em Minas Gerais, em todo o Brasil e internacionalmente",
-                "Centenas de celebrações realizadas com excelência",
+                "Localizado em Coronel Fabriciano/MG",
+                "Mais de 15 anos de experiência em beleza capilar",
+                "Especialista em cortes, coloração e tratamentos",
+                "Atendimento personalizado para cada cliente",
+                "Produtos profissionais de alta qualidade",
+                "Centenas de clientes satisfeitas e fidelizadas",
               ].map((i) => (
                 <li
                   key={i}
