@@ -103,8 +103,8 @@ function Contato() {
       </div>
       <PageHeader
         eyebrow="— 05 / Contato"
-        title="Vamos transformar o seu evento em um momento inesquecível."
-        intro="Conte-nos como você imagina sua celebração. Será um prazer conhecer seu projeto e preparar uma proposta personalizada para tornar esse momento único."
+        title="Vamos realçar a sua beleza e cuidar da sua autoestima."
+        intro="Conte-nos como você deseja renovar o seu visual. Será um prazer conhecer suas necessidades e oferecer um atendimento personalizado para que você se sinta ainda mais bonita e confiante."
       />
       <section className="py-12 sm:py-16 lg:py-24">
         <div className="mx-auto grid max-w-7xl grid-cols-12 gap-8 px-4 sm:px-6 lg:px-8">
