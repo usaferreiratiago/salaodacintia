@@ -23,20 +23,20 @@ import logoImg from "@/assets/salaodacintia.png";
 export const Route = createFileRoute()({
   head: () => ({
     meta: [
-      { title: "Equipe — SALAO CINTIA" },
+      { title: "Equipe — SALÃO CÍNTIA" },
       {
         name: "description",
         content:
-          "Conheça a equipe que transforma celebrações em experiências únicas, com excelência, sofisticação e atenção a cada detalhe.",
+          "Conheça a profissional dedicada a realçar a beleza e a autoestima de cada cliente, oferecendo atendimento personalizado, técnicas modernas e um cuidado especial em cada detalhe.",
       },
       {
         property: "og:title",
-        content: "Equipe — SALAO CINTIA | Festas e Eventos de Luxo",
+        content: "Equipe — SALÃO CÍNTIA | Beleza, Estilo e Autoestima",
       },
       {
         property: "og:description",
         content:
-          "Uma equipe apaixonada por criar eventos exclusivos, elegantes e memoráveis, cuidando de cada detalhe para tornar cada celebração inesquecível.",
+          "À frente do Salão Cíntia, uma empreendedora apaixonada por beleza transforma cada atendimento em uma experiência única, proporcionando cortes, colorações e tratamentos com excelência, carinho e profissionalismo.",
       },
     ],
   }),

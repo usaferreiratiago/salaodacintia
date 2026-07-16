@@ -22,20 +22,20 @@ import logoImg from "@/assets/senoengenharia.png";
 export const Route = createFileRoute()({
   head: () => ({
     meta: [
-      { title: "Equipe — SALAO CINTIA" },
+      { title: "Equipe — SALÃO CÍNTIA" },
       {
         name: "description",
         content:
-          "Conheça a equipe que transforma celebrações em experiências únicas, com excelência, sofisticação e atenção a cada detalhe.",
+          "Conheça a equipe do Salão Cíntia, formada por profissionais apaixonados por beleza, autoestima e bem-estar, dedicados a oferecer um atendimento personalizado e resultados que valorizam a beleza de cada cliente.",
       },
       {
         property: "og:title",
-        content: "Equipe — SALAO CINTIA | Festas e Eventos de Luxo",
+        content: "Equipe — SALÃO CÍNTIA | Beleza, Cuidado e Autoestima",
       },
       {
         property: "og:description",
         content:
-          "Uma equipe apaixonada por criar eventos exclusivos, elegantes e memoráveis, cuidando de cada detalhe para tornar cada celebração inesquecível.",
+          "Uma equipe comprometida em transformar beleza em confiança, oferecendo serviços de alta qualidade, atendimento acolhedor e uma experiência única para cada cliente.",
       },
     ],
   }),

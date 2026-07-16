@@ -20,16 +20,17 @@ import logoImg from "@/assets/salaodacintia.png";
 export const Route = createFileRoute()({
   head: () => ({
     meta: [
-      { title: "Contato — SALAO CINTIA" },
+      { title: "Contato — Salão Cíntia" },
       {
         name: "description",
         content:
-          "Solicite orçamento ou tire dúvidas com a equipe da SALAO CINTIA em Coronel Fabriciano/MG.",
+          "Entre em contato com o Salão Cíntia e agende seu horário. Será um prazer cuidar da sua beleza com atendimento personalizado, carinho e dedicação em Coronel Fabriciano/MG.",
       },
-      { property: "og:title", content: "Fale com a SALAO CINTIA" },
+      { property: "og:title", content: "Fale com o Salão Cíntia" },
       {
         property: "og:description",
-        content: "Solicite orçamento ou tire dúvidas.",
+        content:
+          "Agende seu horário e transforme sua autoestima com um atendimento feito especialmente para você.",
       },
     ],
   }),

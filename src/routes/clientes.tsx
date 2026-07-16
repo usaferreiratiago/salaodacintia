@@ -9,15 +9,17 @@ import logoImg from "@/assets/salaodacintia.png";
 export const Route = createFileRoute()({
   head: () => ({
     meta: [
-      { title: "Clientes — SALAO CINTIA" },
+      { title: "Clientes — Salão Cíntia" },
       {
         name: "description",
-        content: "Depoimentos de Clientes atendidos pela SALAO CINTIA.",
+        content:
+          "Conheça os depoimentos de clientes que confiaram no trabalho da empreendedora Cíntia para realçar sua beleza com cuidado, dedicação e atendimento personalizado.",
       },
-      { property: "og:title", content: "Clientes — SALAO CINTIA" },
+      { property: "og:title", content: "Clientes — Salão Cíntia" },
       {
         property: "og:description",
-        content: "O que dizem sobre o atendimento da SALAO CINTIA.",
+        content:
+          "Veja o que nossas clientes dizem sobre a experiência, o atendimento e os resultados alcançados no Salão Cíntia.",
       },
     ],
   }),

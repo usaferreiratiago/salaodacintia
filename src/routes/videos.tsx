@@ -17,20 +17,20 @@ import { PageHeader } from "@/components/page-header";
 export const Route = createFileRoute()({
   head: () => ({
     meta: [
-      { title: "Equipe — SALAO CINTIA" },
+      { title: "Sobre — SALÃO CÍNTIA" },
       {
         name: "description",
         content:
-          "Conheça a equipe que transforma celebrações em experiências únicas, com excelência, sofisticação e atenção a cada detalhe.",
+          "Conheça a história de Cíntia, empreendedora apaixonada pela beleza e autoestima, dedicada a oferecer atendimento personalizado, técnicas atualizadas e uma experiência única para cada cliente.",
       },
       {
         property: "og:title",
-        content: "Equipe — SALAO CINTIA | Festas e Eventos de Luxo",
+        content: "Sobre — SALÃO CÍNTIA | Beleza, Cuidado e Transformação",
       },
       {
         property: "og:description",
         content:
-          "Uma equipe apaixonada por criar eventos exclusivos, elegantes e memoráveis, cuidando de cada detalhe para tornar cada celebração inesquecível.",
+          "Descubra a trajetória de Cíntia, especialista em realçar a beleza de cada cliente com profissionalismo, dedicação e um atendimento acolhedor. Cada serviço é realizado com carinho para proporcionar confiança, bem-estar e resultados que valorizam sua essência.",
       },
     ],
   }),
