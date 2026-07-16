@@ -19,10 +19,10 @@ export function SiteHeader() {
           onClick={() => setOpen(false)}
         >
           <span className="font-display text-xl font-semibold tracking-tight text-ink">
-            MEL MESQUITA
+            SALAO CINTIA
           </span>
           <span className="text-xs uppercase tracking-[0.25em] text-stone">
-            Mel Mesquita
+            SALAO CINTIA
           </span>
         </a>
         <nav className="hidden items-center gap-10 text-sm text-foreground/70 md:flex">

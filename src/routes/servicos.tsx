@@ -20,7 +20,7 @@ import logoImg from "@/assets/salaodacintia.png";
 export const Route = createFileRoute()({
   head: () => ({
     meta: [
-      { title: "Equipe — Mel Mesquita" },
+      { title: "Equipe — SALAO CINTIA" },
       {
         name: "description",
         content:
@@ -28,7 +28,7 @@ export const Route = createFileRoute()({
       },
       {
         property: "og:title",
-        content: "Equipe — Mel Mesquita | Festas e Eventos de Luxo",
+        content: "Equipe — SALAO CINTIA | Festas e Eventos de Luxo",
       },
       {
         property: "og:description",
@@ -97,7 +97,7 @@ function Servicos() {
           >
             {/* <img
               src={logoImg}
-              alt="Mel Mesquita Logo"
+              alt="SALAO CINTIA Logo"
               className="h-10 sm:h-12 w-auto object-contain transition-all duration-300 dark:brightness-110 dark:contrast-105"
             /> */}
           </motion.div>

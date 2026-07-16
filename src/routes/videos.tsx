@@ -17,7 +17,7 @@ import { PageHeader } from "@/components/page-header";
 export const Route = createFileRoute()({
   head: () => ({
     meta: [
-      { title: "Equipe — Mel Mesquita" },
+      { title: "Equipe — SALAO CINTIA" },
       {
         name: "description",
         content:
@@ -25,7 +25,7 @@ export const Route = createFileRoute()({
       },
       {
         property: "og:title",
-        content: "Equipe — Mel Mesquita | Festas e Eventos de Luxo",
+        content: "Equipe — SALAO CINTIA | Festas e Eventos de Luxo",
       },
       {
         property: "og:description",
@@ -42,7 +42,7 @@ const allProjects = [
   {
     id: "iOgXmM1SDJE",
     platform: "youtube",
-    title: "Celebrações personalizadas e inesquecíveis — Mel Mesquita",
+    title: "Celebrações personalizadas e inesquecíveis — SALAO CINTIA",
     type: "Evento",
     year: "",
     url: "https://www.youtube.com/watch?v=iOgXmM1SDJE",
@@ -50,7 +50,7 @@ const allProjects = [
   {
     id: "DSnXbJDkUTo",
     platform: "instagram",
-    title: "Momentos especiais — Mel Mesquita",
+    title: "Momentos especiais — SALAO CINTIA",
     type: "Evento",
     year: "",
     url: "https://www.instagram.com/p/DSnXbJDkUTo/",

@@ -7,7 +7,7 @@ import heroImg from "@/assets/salaodacintia.jpg";
 export const Route = createFileRoute()({
   head: () => ({
     meta: [
-      { title: "Mel Mesquita — +15 anos de atendimento" },
+      { title: "SALAO CINTIA — +15 anos de atendimento" },
       {
         name: "description",
         content:
@@ -15,7 +15,7 @@ export const Route = createFileRoute()({
       },
       {
         property: "og:title",
-        content: "Mel Mesquita — Projetos e Construções",
+        content: "SALAO CINTIA — Projetos e Construções",
       },
       {
         property: "og:description",
@@ -31,7 +31,7 @@ export const Route = createFileRoute()({
         children: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "GeneralContractor",
-          name: "Mel Mesquita Projetos Construções LTDA - ME",
+          name: "SALAO CINTIA Projetos Construções LTDA - ME",
           taxID: "20.853.842/0001-01",
           foundingDate: "2011",
           address: {
@@ -63,7 +63,7 @@ function Home() {
         <div className="absolute inset-0">
           <img
             src={heroImg}
-            alt="Mel Mesquita"
+            alt="SALAO CINTIA"
             width={1920}
             height={1080}
             className="h-full w-full object-cover"
@@ -79,7 +79,7 @@ function Home() {
               className="mb-8 inline-flex items-center gap-3 text-xs uppercase tracking-[0.3em] text-zinc-600 dark:text-zinc-400 font-semibold"
             >
               <span className="h-px w-10 bg-orange-700 dark:bg-orange-600" />
-              Mel Mesquita
+              SALAO CINTIA
             </motion.div>
 
             <motion.h1

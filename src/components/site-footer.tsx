@@ -6,7 +6,7 @@ export function SiteFooter() {
           <div>
             <div className="flex items-baseline gap-3">
               <span className="font-display text-lg font-semibold text-ink">
-                MEL MESQUITA
+                SALAO CINTIA
               </span>
               <span className="text-xs uppercase tracking-[0.25em] text-stone">
                 Festas e Eventos · Desde 2011
@@ -45,7 +45,7 @@ export function SiteFooter() {
           </div>
         </div>
         <div className="mt-10 text-xs text-stone">
-          © {new Date().getFullYear()} Mel Mesquita.
+          © {new Date().getFullYear()} SALAO CINTIA.
         </div>
       </div>
     </footer>

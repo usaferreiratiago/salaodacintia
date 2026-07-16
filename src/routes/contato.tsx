@@ -20,13 +20,13 @@ import logoImg from "@/assets/salaodacintia.png";
 export const Route = createFileRoute()({
   head: () => ({
     meta: [
-      { title: "Contato — Mel Mesquita" },
+      { title: "Contato — SALAO CINTIA" },
       {
         name: "description",
         content:
-          "Solicite orçamento ou tire dúvidas com a equipe da Mel Mesquita em Coronel Fabriciano/MG.",
+          "Solicite orçamento ou tire dúvidas com a equipe da SALAO CINTIA em Coronel Fabriciano/MG.",
       },
-      { property: "og:title", content: "Fale com a Mel Mesquita" },
+      { property: "og:title", content: "Fale com a SALAO CINTIA" },
       {
         property: "og:description",
         content: "Solicite orçamento ou tire dúvidas.",
@@ -95,7 +95,7 @@ function Contato() {
           >
             {/* <img
               src={logoImg}
-              alt="Mel Mesquita Logo"
+              alt="SALAO CINTIA Logo"
               className="h-10 sm:h-12 w-auto object-contain transition-all duration-300 dark:brightness-110 dark:contrast-105"
             /> */}
           </motion.div>

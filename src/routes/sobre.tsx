@@ -11,7 +11,7 @@ import logoImg from "@/assets/salaodacintia.png";
 export const Route = createFileRoute()({
   head: () => ({
     meta: [
-      { title: "Equipe — Mel Mesquita" },
+      { title: "Equipe — SALAO CINTIA" },
       {
         name: "description",
         content:
@@ -19,7 +19,7 @@ export const Route = createFileRoute()({
       },
       {
         property: "og:title",
-        content: "Equipe — Mel Mesquita | Festas e Eventos de Luxo",
+        content: "Equipe — SALAO CINTIA | Festas e Eventos de Luxo",
       },
       {
         property: "og:description",
@@ -55,7 +55,7 @@ function Sobre() {
           >
             {/* <img
               src={logoImg}
-              alt="Mel Mesquita Logo"
+              alt="SALAO CINTIA Logo"
               className="h-10 sm:h-12 w-auto object-contain transition-all duration-300 dark:brightness-110 dark:contrast-105"
             /> */}
           </motion.div>
@@ -64,7 +64,7 @@ function Sobre() {
       <PageHeader
         eyebrow="— 01 / Sobre"
         title="Celebrações exclusivas, criadas para marcar histórias."
-        intro="Com mais de 15 anos de experiência no mercado de festas e eventos, a Mel Mesquita transforma ideias em experiências sofisticadas e memoráveis. Cada projeto é desenvolvido com planejamento personalizado, excelência na execução e um olhar atento aos mínimos detalhes, tornando cada ocasião verdadeiramente única."
+        intro="Com mais de 15 anos de experiência no mercado de festas e eventos, a SALAO CINTIA transforma ideias em experiências sofisticadas e memoráveis. Cada projeto é desenvolvido com planejamento personalizado, excelência na execução e um olhar atento aos mínimos detalhes, tornando cada ocasião verdadeiramente única."
       />
       {/* Seção com suporte completo a cores adaptáveis */}
       <section className="bg-white dark:bg-zinc-950 text-zinc-900 dark:text-zinc-100 py-12 sm:py-20 lg:py-28 transition-colors duration-300">
@@ -79,7 +79,7 @@ function Sobre() {
           >
             <img
               src={aboutImg}
-              alt="Equipe MEL MESQUITArevisando projetos"
+              alt="Equipe SALAO CINTIArevisando projetos"
               loading="lazy"
               className="aspect-4/3 w-full object-cover rounded-sm shadow-sm dark:opacity-90"
             />
@@ -90,7 +90,7 @@ function Sobre() {
             <p className="text-base leading-relaxed text-zinc-700 dark:text-zinc-300 md:text-lg">
               A{" "}
               <strong className="text-zinc-900 font-semibold dark:text-zinc-50">
-                Mel Mesquita
+                SALAO CINTIA
               </strong>{" "}
               nasceu com um propósito simples: transformar sonhos em celebrações
               inesquecíveis. Há mais de 15 anos, criamos eventos que unem

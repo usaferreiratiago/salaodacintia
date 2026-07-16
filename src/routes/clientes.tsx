@@ -9,15 +9,15 @@ import logoImg from "@/assets/salaodacintia.png";
 export const Route = createFileRoute()({
   head: () => ({
     meta: [
-      { title: "Clientes — Mel Mesquita" },
+      { title: "Clientes — SALAO CINTIA" },
       {
         name: "description",
-        content: "Depoimentos de Clientes atendidos pela Mel Mesquita.",
+        content: "Depoimentos de Clientes atendidos pela SALAO CINTIA.",
       },
-      { property: "og:title", content: "Clientes — Mel Mesquita" },
+      { property: "og:title", content: "Clientes — SALAO CINTIA" },
       {
         property: "og:description",
-        content: "O que dizem sobre o atendimento da Mel Mesquita.",
+        content: "O que dizem sobre o atendimento da SALAO CINTIA.",
       },
     ],
   }),
@@ -26,7 +26,7 @@ export const Route = createFileRoute()({
 
 const testimonials = [
   {
-    q: "A Mel Mesquita superou todas as nossas expectativas. Cada detalhe foi cuidadosamente planejado e nosso casamento ficou exatamente como sempre sonhamos.",
+    q: "A SALAO CINTIA superou todas as nossas expectativas. Cada detalhe foi cuidadosamente planejado e nosso casamento ficou exatamente como sempre sonhamos.",
     a: "Marcos Souza",
     r: "Noivo · Belo Horizonte/MG",
   },
@@ -51,7 +51,7 @@ const testimonials = [
     r: "Evento Particular · Portugal",
   },
   {
-    q: "Cada detalhe refletia nosso estilo e personalidade. A Mel Mesquita transformou nossas ideias em um evento elegante e memorável.",
+    q: "Cada detalhe refletia nosso estilo e personalidade. A SALAO CINTIA transformou nossas ideias em um evento elegante e memorável.",
     a: "Guilherme Andrade",
     r: "Formatura · Espanha",
   },
@@ -81,7 +81,7 @@ function Clientes() {
           >
             {/* <img
               src={logoImg}
-              alt="Mel Mesquita Logo"
+              alt="SALAO CINTIA Logo"
               className="h-10 sm:h-12 w-auto object-contain transition-all duration-300 dark:brightness-110 dark:contrast-105"
             /> */}
           </motion.div>
@@ -91,7 +91,7 @@ function Clientes() {
       <PageHeader
         eyebrow="— 04 / Clientes"
         title="Momentos inesquecíveis contados por quem viveu essa experiência."
-        intro="Conheça os relatos de clientes que confiaram à Mel Mesquita a missão de transformar seus sonhos em celebrações únicas, elegantes e memoráveis."
+        intro="Conheça os relatos de clientes que confiaram à SALAO CINTIA a missão de transformar seus sonhos em celebrações únicas, elegantes e memoráveis."
       />
 
       <section className="bg-zinc-50 dark:bg-zinc-900/40 py-12 sm:py-16 lg:py-28 text-zinc-900 dark:text-zinc-50 transition-colors duration-300">

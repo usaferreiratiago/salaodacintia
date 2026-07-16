@@ -22,7 +22,7 @@ import logoImg from "@/assets/senoengenharia.png";
 export const Route = createFileRoute()({
   head: () => ({
     meta: [
-      { title: "Equipe — Mel Mesquita" },
+      { title: "Equipe — SALAO CINTIA" },
       {
         name: "description",
         content:
@@ -30,7 +30,7 @@ export const Route = createFileRoute()({
       },
       {
         property: "og:title",
-        content: "Equipe — Mel Mesquita | Festas e Eventos de Luxo",
+        content: "Equipe — SALAO CINTIA | Festas e Eventos de Luxo",
       },
       {
         property: "og:description",
