@@ -11,7 +11,7 @@ import { useState, useEffect } from "react";
 import { PageHeader } from "@/components/page-header";
 
 // Importação da logo utilizando o caminho relativo do projeto
-// import logoImg from "@/assets/melmesquita.png";
+// import logoImg from "@/assets/salaodacintia.png";
 
 // Rota adicionada para resolver o erro do TS
 export const Route = createFileRoute()({

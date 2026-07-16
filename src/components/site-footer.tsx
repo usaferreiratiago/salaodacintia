@@ -37,7 +37,7 @@ export function SiteFooter() {
             </a>
           </nav>
           <div className="text-sm text-foreground/70">
-            <div>contato@melmesquita.com.br</div>
+            <div>contato@salaodacintia.com.br</div>
             <div className="mt-1">(31) 0000-0000</div>
             <div className="mt-3 text-xs text-stone">
               CNPJ 00.000.000/0000-00

@@ -15,7 +15,7 @@ import {
 import { PageHeader } from "@/components/page-header";
 
 // Importação da logo utilizando o caminho relativo do projeto
-import logoImg from "@/assets/melmesquita.png";
+import logoImg from "@/assets/salaodacintia.png";
 
 export const Route = createFileRoute()({
   head: () => ({
@@ -52,7 +52,7 @@ function Contato() {
     const body = encodeURIComponent(
       `Nome: ${data.nome}\nEmail: ${data.email}\nTelefone: ${data.telefone}\n\nMENSAGEM:\n${data.mensagem}`,
     );
-    window.location.href = `mailto:contato@melmesquita.com.br?subject=Contato%20pelo%20site&body=${body}`;
+    window.location.href = `mailto:contato@salaodacintia.com.br?subject=Contato%20pelo%20site&body=${body}`;
     reset();
   };
 
@@ -136,7 +136,7 @@ function Contato() {
               </a>
 
               <a
-                href="mailto:contato@melmesquita.com.br"
+                href="mailto:contato@salaodacintia.com.br"
                 className="group flex items-start gap-4 border-b border-zinc-200 dark:border-zinc-800 pb-6 w-full"
               >
                 <Mail
@@ -148,7 +148,7 @@ function Contato() {
                     E-mail
                   </div>
                   <div className="mt-1 font-display text-lg sm:text-xl text-zinc-900 transition group-hover:text-orange-700 dark:text-zinc-200 dark:group-hover:text-orange-500 break-all">
-                    contato@melmesquita.com.br
+                    contato@salaodacintia.com.br
                   </div>
                 </div>
               </a>
@@ -301,7 +301,7 @@ function Contato() {
 
                 {/* Botão: Instagram */}
                 <a
-                  href="https://instagram.com/melmesquita1711" /* Substitua com o link correto */
+                  href="https://instagram.com/salaodacintia1711" /* Substitua com o link correto */
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group inline-flex w-full items-center justify-center gap-3 rounded-sm border border-pink-600/30 bg-pink-50/50 hover:bg-pink-600 dark:border-pink-500/20 dark:bg-pink-950/20 dark:hover:bg-pink-600 px-6 py-3 text-sm font-medium text-pink-700 dark:text-pink-400 hover:text-white dark:hover:text-white transition-all md:w-auto cursor-pointer"

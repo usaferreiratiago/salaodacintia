@@ -5,7 +5,7 @@ import aboutImg from "@/assets/about-blueprint.jpg";
 import { PageHeader } from "@/components/page-header";
 
 // Importação da logo utilizando o caminho relativo do projeto
-import logoImg from "@/assets/melmesquita.png";
+import logoImg from "@/assets/salaodacintia.png";
 
 // Rota adicionada explicitamente para resolver o erro do TS
 export const Route = createFileRoute()({

@@ -4,7 +4,7 @@ import { Quote, ArrowLeft } from "lucide-react";
 import { PageHeader } from "@/components/page-header";
 
 // Importação da logo utilizando o caminho relativo do projeto
-import logoImg from "@/assets/melmesquita.png";
+import logoImg from "@/assets/salaodacintia.png";
 
 export const Route = createFileRoute()({
   head: () => ({
