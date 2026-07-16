@@ -91,12 +91,13 @@ function Home() {
               }}
               className="font-display text-[clamp(2.75rem,8vw,7rem)] font-medium leading-[0.95] text-zinc-900 dark:text-zinc-50 tracking-tight"
             >
-              Experiências
+              Estilo
               <br />
-              <span className="italic font-light text-orange-700 dark:text-orange-500">
-                Sonhos
+              <span className="italic font-light text-orange-600 dark:text-orange-500">
+                Confiança
               </span>{" "}
-              &amp; Memórias
+              <br />
+              &amp; Elegância
             </motion.h1>
 
             <motion.p
