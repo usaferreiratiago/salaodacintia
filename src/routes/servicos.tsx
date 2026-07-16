@@ -10,6 +10,9 @@ import {
   Heart,
   Smile,
   ArrowLeft,
+  Brush,
+  Scissors,
+  Crown,
 } from "lucide-react";
 import { PageHeader } from "@/components/page-header";
 
@@ -42,34 +45,34 @@ export const Route = createFileRoute()({
 
 const services = [
   {
-    icon: PartyPopper,
-    title: "Planejamento de eventos",
-    desc: "Desenvolvimento completo do projeto, definição do conceito, cronograma, orçamento e organização de cada etapa da celebração.",
+    icon: Scissors,
+    title: "Cortes femininos",
+    desc: "Cortes modernos e personalizados, respeitando o formato do rosto, o estilo e a personalidade de cada cliente.",
   },
   {
     icon: Sparkles,
-    title: "Casamentos",
-    desc: "Planejamento e coordenação de casamentos personalizados, transformando sonhos em momentos inesquecíveis com elegância e sofisticação.",
+    title: "Coloração e mechas",
+    desc: "Técnicas de coloração, luzes e mechas realizadas com produtos de qualidade para resultados naturais, modernos e saudáveis.",
   },
   {
-    icon: Cake,
-    title: "Festas sociais",
-    desc: "Organização de aniversários, debutantes, bodas e outras celebrações, sempre com atenção aos detalhes e experiências memoráveis.",
+    icon: Heart,
+    title: "Tratamentos capilares",
+    desc: "Hidratação, reconstrução, nutrição e protocolos específicos para recuperar a saúde, o brilho e a força dos fios.",
   },
   {
-    icon: Gift,
-    title: "Consultoria para eventos",
-    desc: "Orientação especializada para quem deseja planejar seu evento com segurança, criatividade e excelência na execução.",
+    icon: Brush,
+    title: "Escova e finalização",
+    desc: "Escovas, modelagens e finalizações que valorizam o corte e deixam seus cabelos impecáveis para qualquer ocasião.",
   },
   {
-    icon: Trophy,
-    title: "Coordenação no dia do evento",
-    desc: "Acompanhamento completo durante a celebração, garantindo que cada fornecedor e cada detalhe aconteçam conforme o planejado.",
+    icon: Crown,
+    title: "Penteados",
+    desc: "Penteados para casamentos, formaturas, festas e eventos especiais, desenvolvidos para destacar sua beleza em momentos inesquecíveis.",
   },
   {
     icon: Smile,
-    title: "Eventos corporativos",
-    desc: "Planejamento e produção de eventos empresariais, lançamentos, confraternizações e experiências que fortalecem a imagem da sua marca.",
+    title: "Atendimento personalizado",
+    desc: "Consultoria de imagem e orientação profissional para indicar os melhores cuidados e procedimentos para o seu tipo de cabelo.",
   },
 ];
 
@@ -106,8 +109,8 @@ function Servicos() {
 
       <PageHeader
         eyebrow="— 02 / Serviços"
-        title="Celebrações planejadas com excelência em cada detalhe."
-        intro="Planejamento, produção e coordenação de eventos exclusivos, desenvolvidos de forma personalizada para proporcionar experiências elegantes, memoráveis e perfeitamente executadas."
+        title="Beleza, autoestima e cuidado em cada atendimento."
+        intro="Cada cliente é único(a). Por isso, oferecemos atendimentos personalizados, técnicas atualizadas e um ambiente acolhedor para realçar sua beleza e fortalecer sua confiança em cada visita."
       />
 
       {/* Seção de serviços adaptável para Light e Dark Mode */}
