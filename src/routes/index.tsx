@@ -144,12 +144,12 @@ function Home() {
           <div className="mx-auto grid max-w-7xl grid-cols-2 divide-x divide-zinc-200 md:grid-cols-4">
             {[
               { k: "+15", l: "anos de atendimento" },
-              { k: "+5500", l: "Festas e Eventos realizados" },
+              { k: "+5500", l: "Transformações realizadas" },
               {
                 k: "MG",
                 l: "MG, em todo o Brasil, Estados Unidos e Europa.",
               },
-              { k: "100%", l: "prazo cumprido" },
+              { k: "100%", l: "100% Excelência" },
             ].map((s) => (
               <div key={s.l} className="px-6 py-8 lg:px-10">
                 <div className="font-display text-3xl font-medium dark:text-zinc-50 md:text-4xl">
@@ -172,43 +172,43 @@ function Home() {
               to: "/sobre",
               n: "01",
               t: "Sobre",
-              d: "Mais de 15 anos criando celebrações inesquecíveis com elegância, criatividade e excelência.",
+              d: "Mais de 15 anos dedicados à beleza, autoestima e transformação de mulheres através de um atendimento acolhedor e personalizado.",
             },
             {
               to: "/servicos",
               n: "02",
               t: "Serviços",
-              d: "Planejamento, organização e produção de eventos personalizados.",
+              d: "Cortes, coloração, tratamentos capilares, escovas e cuidados especiais para realçar a sua beleza em cada detalhe.",
             },
             {
               to: "/portfolio",
               n: "03",
               t: "Portfólio",
-              d: "Conheça alguns dos eventos que transformaram sonhos em realidade.",
+              d: "Confira algumas das transformações, estilos e resultados que marcaram a história do nosso salão.",
             },
             {
               to: "/clientes",
               n: "04",
               t: "Clientes",
-              d: "Veja o que nossos clientes dizem sobre suas experiências e celebrações.",
+              d: "Veja o que nossas clientes dizem sobre suas experiências, confiança e satisfação com nossos serviços.",
             },
             {
               to: "/funcionarios",
               n: "05",
               t: "Equipe",
-              d: "Conheça os profissionais que tornam cada evento único e memorável.",
+              d: "Conheça os profissionais apaixonados por beleza que fazem cada atendimento ser único e especial.",
             },
             {
               to: "/contato",
               n: "06",
               t: "Contato",
-              d: "Solicite um orçamento e comece a planejar seu próximo evento.",
+              d: "Agende seu horário, solicite informações e venha viver uma experiência de cuidado e autoestima.",
             },
             {
               to: "/videos",
               n: "07",
               t: "Vídeos",
-              d: "Inspire-se com registros de eventos, bastidores e momentos especiais.",
+              d: "Acompanhe transformações, dicas de beleza, bastidores do salão e momentos especiais do nosso dia a dia.",
             },
           ].map((c) => (
             <Link

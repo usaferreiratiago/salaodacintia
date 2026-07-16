@@ -63,7 +63,7 @@ function Sobre() {
       </div>
       <PageHeader
         eyebrow="— 01 / Sobre"
-        title="Celebrações exclusivas, criadas para marcar histórias."
+        title="Beleza, cuidado e autoestima em cada atendimento."
         intro="Com mais de 15 anos de experiência no mercado de festas e eventos, a SALAO CINTIA transforma ideias em experiências sofisticadas e memoráveis. Cada projeto é desenvolvido com planejamento personalizado, excelência na execução e um olhar atento aos mínimos detalhes, tornando cada ocasião verdadeiramente única."
       />
       {/* Seção com suporte completo a cores adaptáveis */}
