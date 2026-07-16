@@ -180,11 +180,11 @@ function Contato() {
                     Endereço
                   </div>
                   <div className="mt-1 font-display text-lg sm:text-xl leading-snug text-zinc-900 dark:text-zinc-200">
-                    Rua X,00
+                    Av. Doutor José de Magalhães Pinto, 1977
                     <br />
-                    Santa Luzia
+                    Giovanini, Cel. Fabriciano - MG
                     <br />
-                    MG — CEP 00000-000
+                    MG — CEP 35170-097
                   </div>
                   <div className="mt-2 text-sm text-zinc-500 dark:text-zinc-400">
                     CNPJ 00.000.000/0000-00
