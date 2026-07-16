@@ -46,32 +46,32 @@ export const Route = createFileRoute()({
 const allProjects = [
   {
     img: a1,
-    title: "Casamentos",
-    type: "Planejamento e produção de casamentos exclusivos",
+    title: "Cortes Femininos",
+    type: "Cortes modernos e personalizados para cada estilo",
     valor: "Sob consulta",
   },
   {
     img: a2,
-    title: "Festas de 15 Anos",
-    type: "Celebrações personalizadas e inesquecíveis",
+    title: "Coloração e Mechas",
+    type: "Transformações com técnicas atuais e produtos de alta qualidade",
     valor: "Sob consulta",
   },
   {
     img: a3,
-    title: "Eventos Corporativos",
-    type: "Lançamentos, confraternizações e eventos empresariais",
+    title: "Escovas e Finalizações",
+    type: "Acabamentos impecáveis para o dia a dia ou ocasiões especiais",
     valor: "Sob consulta",
   },
   {
     img: a4,
-    title: "Aniversários e Eventos Sociais",
-    type: "Projetos personalizados para todas as celebrações",
+    title: "Tratamentos Capilares",
+    type: "Hidratação, reconstrução e cuidados para cabelos saudáveis",
     valor: "Sob consulta",
   },
   {
     img: a5,
-    title: "Vamos criar seu evento?",
-    type: "Solicite um orçamento personalizado",
+    title: "Agende seu horário",
+    type: "Venha viver uma experiência de beleza personalizada",
     valor: "Entre em contato",
   },
 ];
@@ -122,9 +122,9 @@ function Portfolio() {
       </div>
 
       <PageHeader
-        eyebrow="— 03 / Portfolio"
-        title="Portfólio que se mede em celebrações memoráveis."
-        intro="Conheça alguns dos eventos que refletem nossa dedicação à excelência. Cada projeto é desenvolvido com sofisticação, planejamento personalizado e cuidado em cada detalhe, criando experiências exclusivas que permanecem na memória de clientes e convidados."
+        eyebrow="— 03 / Portfólio"
+        title="Transformando autoestima através da beleza."
+        intro="Conheça alguns dos resultados que refletem nossa paixão pela beleza e pelo cuidado com cada cliente. Cada atendimento é realizado com técnica, dedicação e atenção aos detalhes, proporcionando transformações que realçam a personalidade e elevam a autoestima."
       />
 
       <section className="py-12 sm:py-16 lg:py-24 bg-white dark:bg-zinc-950 text-zinc-900 dark:text-zinc-100 transition-colors duration-300">
