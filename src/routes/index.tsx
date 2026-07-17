@@ -7,7 +7,7 @@ import heroImg from "@/assets/salaodacintia.jpg";
 export const Route = createFileRoute()({
   head: () => ({
     meta: [
-      { title: "SALAO CINTIA — +15 anos de atendimento" },
+      { title: "SALAO CINTIA — +11 anos de atendimento" },
       {
         name: "description",
         content:
@@ -20,7 +20,7 @@ export const Route = createFileRoute()({
       {
         property: "og:description",
         content:
-          "+15 anos de atendimento em MG, Vale do Aço e em todo o Brasil, Estados Unidos e Europa.",
+          "+11 anos de atendimento em MG, Vale do Aço e em todo o Brasil, Estados Unidos e Europa.",
       },
       { property: "og:image", content: heroImg },
     ],
@@ -107,7 +107,7 @@ function Home() {
               transition={{ duration: 0.8, delay: 0.15 }}
               className="mt-8 max-w-xl text-base leading-relaxed text-zinc-700 md:text-lg font-medium"
             >
-              Há mais de 15 anos transformando autoestima e realçando a beleza de cada cliente. Com atendimento personalizado, técnica, dedicação e as principais tendências em beleza, proporciona resultados de excelência e uma experiência acolhedora.
+              Há mais de 11 anos transformando autoestima e realçando a beleza de cada cliente. Com atendimento personalizado, técnica, dedicação e as principais tendências em beleza, proporciona resultados de excelência e uma experiência acolhedora.
             </motion.p>
 
             <motion.div
@@ -165,7 +165,7 @@ function Home() {
               to: "/sobre",
               n: "01",
               t: "Sobre",
-              d: "Mais de 15 anos dedicados à beleza, autoestima e transformação de mulheres através de um atendimento acolhedor e personalizado.",
+              d: "Mais de 11 anos dedicados à beleza, autoestima e transformação de mulheres através de um atendimento acolhedor e personalizado.",
             },
             {
               to: "/servicos",

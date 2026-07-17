@@ -64,7 +64,7 @@ function Sobre() {
       <PageHeader
         eyebrow="— 01 / Sobre"
         title="Beleza, cuidado e autoestima em cada atendimento."
-        intro="Com mais de 15 anos de experiência no mercado de festas e eventos, a SALAO CINTIA transforma ideias em experiências sofisticadas e memoráveis. Cada projeto é desenvolvido com planejamento personalizado, excelência na execução e um olhar atento aos mínimos detalhes, tornando cada ocasião verdadeiramente única."
+        intro="Com mais de 11 anos de experiência no mercado de festas e eventos, a SALAO CINTIA transforma ideias em experiências sofisticadas e memoráveis. Cada projeto é desenvolvido com planejamento personalizado, excelência na execução e um olhar atento aos mínimos detalhes, tornando cada ocasião verdadeiramente única."
       />
       {/* Seção com suporte completo a cores adaptáveis */}
       <section className="bg-white dark:bg-zinc-950 text-zinc-900 dark:text-zinc-100 py-12 sm:py-20 lg:py-28 transition-colors duration-300">
@@ -93,7 +93,7 @@ function Sobre() {
                 SALÃO CÍNTIA
               </strong>{" "}
               nasceu da minha paixão por cuidar da autoestima e realçar a beleza
-              de cada cliente. Há mais de 15 anos, dedico minha trajetória a
+              de cada cliente. Há mais de 11 anos, dedico minha trajetória a
               oferecer um atendimento humanizado, técnicas atualizadas e um
               ambiente acolhedor, onde cada pessoa se sente valorizada e sai
               ainda mais confiante.
@@ -111,7 +111,7 @@ function Sobre() {
             <ul className="grid grid-cols-1 gap-3 pt-4 sm:grid-cols-2 target-list">
               {[
                 "Localizado em Coronel Fabriciano/MG",
-                "Mais de 15 anos de experiência em beleza capilar",
+                "Mais de 11 anos de experiência em beleza capilar",
                 "Especialista em cortes, coloração e tratamentos",
                 "Atendimento personalizado para cada cliente",
                 "Produtos profissionais de alta qualidade",

@@ -45,7 +45,7 @@ const allStaff = [
     name: "CÍNTIA",
     role: "Empreendedora • Cabeleireira e Especialista em Beleza",
     info: "Especialista em cortes, coloração e transformação da autoestima",
-    year: "+15 anos",
+    year: "+11 anos",
   },
   // {
   //   img: f2,
