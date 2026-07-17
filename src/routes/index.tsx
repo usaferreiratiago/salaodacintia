@@ -107,14 +107,7 @@ function Home() {
               transition={{ duration: 0.8, delay: 0.15 }}
               className="mt-8 max-w-xl text-base leading-relaxed text-zinc-700 md:text-lg font-medium"
             >
-              Há mais de 15 anos transformando autoestima e realçando a beleza
-              de cada cliente. Empreendedora apaixonada pelo universo da beleza,
-              dedica-se a oferecer um atendimento personalizado, unindo técnica,
-              cuidado e as principais tendências em cortes, coloração,
-              tratamentos capilares e penteados. Cada atendimento é realizado
-              com atenção aos mínimos detalhes, proporcionando uma experiência
-              acolhedora, resultados de excelência e a confiança que cada pessoa
-              merece para se sentir ainda mais bonita.
+              Há mais de 15 anos transformando autoestima e realçando a beleza de cada cliente. Com atendimento personalizado, técnica, dedicação e as principais tendências em beleza, proporciona resultados de excelência e uma experiência acolhedora.
             </motion.p>
 
             <motion.div
