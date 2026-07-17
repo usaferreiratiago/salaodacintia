@@ -46,32 +46,32 @@ export const Route = createFileRoute()({
 const allProjects = [
   {
     img: a1,
-    title: "Cortes Femininos",
-    type: "Cortes modernos e personalizados para cada estilo",
+    title: "Cortes Masculinos",
+    type: "Cortes modernos e personalizados para todos os estilos",
     valor: "Sob consulta",
   },
   {
     img: a2,
-    title: "Coloração e Mechas",
-    type: "Transformações com técnicas atuais e produtos de alta qualidade",
+    title: "Barba e Acabamento",
+    type: "Modelagem, alinhamento e acabamento para um visual impecável",
     valor: "Sob consulta",
   },
   {
     img: a3,
-    title: "Escovas e Finalizações",
-    type: "Acabamentos impecáveis para o dia a dia ou ocasiões especiais",
+    title: "Lavagem e Finalização",
+    type: "Finalização profissional para um estilo moderno e duradouro",
     valor: "Sob consulta",
   },
   {
     img: a4,
     title: "Tratamentos Capilares",
-    type: "Hidratação, reconstrução e cuidados para cabelos saudáveis",
+    type: "Cuidados para fortalecer, hidratar e manter os cabelos saudáveis",
     valor: "Sob consulta",
   },
   {
     img: a5,
-    title: "Agende seu horário",
-    type: "Venha viver uma experiência de beleza personalizada",
+    title: "Agende seu Horário",
+    type: "Tenha uma experiência exclusiva em cuidados masculinos",
     valor: "Entre em contato",
   },
 ];
