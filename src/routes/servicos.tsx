@@ -44,37 +44,37 @@ export const Route = createFileRoute()({
 });
 
 const services = [
-  {
-    icon: Scissors,
-    title: "Cortes femininos",
-    desc: "Cortes modernos e personalizados, respeitando o formato do rosto, o estilo e a personalidade de cada cliente.",
-  },
-  {
-    icon: Sparkles,
-    title: "Coloração e mechas",
-    desc: "Técnicas de coloração, luzes e mechas realizadas com produtos de qualidade para resultados naturais, modernos e saudáveis.",
-  },
-  {
-    icon: Heart,
-    title: "Tratamentos capilares",
-    desc: "Hidratação, reconstrução, nutrição e protocolos específicos para recuperar a saúde, o brilho e a força dos fios.",
-  },
-  {
-    icon: Brush,
-    title: "Escova e finalização",
-    desc: "Escovas, modelagens e finalizações que valorizam o corte e deixam seus cabelos impecáveis para qualquer ocasião.",
-  },
-  {
-    icon: Crown,
-    title: "Penteados",
-    desc: "Penteados para casamentos, formaturas, festas e eventos especiais, desenvolvidos para destacar sua beleza em momentos inesquecíveis.",
-  },
-  {
-    icon: Smile,
-    title: "Atendimento personalizado",
-    desc: "Consultoria de imagem e orientação profissional para indicar os melhores cuidados e procedimentos para o seu tipo de cabelo.",
-  },
-];
+    {
+      icon: Scissors,
+      title: "Cortes masculinos",
+      desc: "Cortes modernos e personalizados, valorizando o estilo, o formato do rosto e a personalidade de cada cliente.",
+    },
+    {
+      icon: Sparkles,
+      title: "Barba e acabamento",
+      desc: "Modelagem, alinhamento e acabamento da barba com técnicas precisas para um visual elegante e bem cuidado.",
+    },
+    {
+      icon: Heart,
+      title: "Tratamentos capilares",
+      desc: "Protocolos de hidratação, fortalecimento e cuidados específicos para manter os cabelos saudáveis, fortes e com aparência natural.",
+    },
+    {
+      icon: Brush,
+      title: "Lavagem e finalização",
+      desc: "Lavagem, secagem e finalização profissional para proporcionar praticidade, estilo e um acabamento impecável.",
+    },
+    {
+      icon: Crown,
+      title: "Tratamentos para barba",
+      desc: "Cuidados completos para barba e bigode, incluindo hidratação, nutrição e produtos específicos para manter os fios saudáveis.",
+    },
+    {
+      icon: Smile,
+      title: "Atendimento personalizado",
+      desc: "Consultoria para identificar o corte, o estilo de barba e os cuidados ideais para valorizar o visual e atender às necessidades de cada cliente.",
+    },
+  ];
 
 function Servicos() {
   return (
@@ -110,7 +110,7 @@ function Servicos() {
       <PageHeader
         eyebrow="— 02 / Serviços"
         title="Beleza, autoestima e cuidado em cada atendimento."
-        intro="Cada cliente é único(a). Por isso, oferecemos atendimentos personalizados, técnicas atualizadas e um ambiente acolhedor para realçar sua beleza e fortalecer sua confiança em cada visita."
+        intro="Cada cliente é único. Por isso, oferecemos atendimentos personalizados, técnicas atualizadas e um ambiente acolhedor para realçar sua beleza e fortalecer sua confiança em cada visita."
       />
 
       {/* Seção de serviços adaptável para Light e Dark Mode */}
