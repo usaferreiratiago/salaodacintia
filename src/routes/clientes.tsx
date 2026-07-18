@@ -29,32 +29,32 @@ export const Route = createFileRoute()({
 const testimonials = [
   {
     q: "Sempre saio do Salão Cíntia me sentindo mais bonita e confiante. O atendimento é impecável e o resultado supera minhas expectativas em cada visita.",
-    a: "Mariana Souza",
+    a: "Marcos Souza",
     r: "Cliente há 5 anos",
   },
   {
     q: "Encontrei um lugar onde realmente entendem o que eu quero. Meu cabelo ficou saudável, moderno e exatamente como imaginei.",
-    a: "Patrícia Almeida",
+    a: "Clever Almeida",
     r: "Corte e Coloração",
   },
   {
     q: "Além do excelente atendimento, o ambiente é acolhedor e muito agradável. É um momento de cuidado comigo mesma que faço questão de repetir.",
-    a: "Fernanda Costa",
+    a: "Fernando Costa",
     r: "Escova e Tratamento Capilar",
   },
   {
     q: "Fiz minhas luzes e o resultado ficou simplesmente maravilhoso. Recebi muitos elogios e meu cabelo permaneceu saudável e brilhante.",
-    a: "Juliana Pereira",
+    a: "Juliano Pereira",
     r: "Mechas e Hidratação",
   },
   {
     q: "A Cíntia é extremamente atenciosa e detalhista. Ela explica cada procedimento e transmite muita segurança durante todo o atendimento.",
-    a: "Carla Mendes",
+    a: "Carlos Mendes",
     r: "Coloração",
   },
   {
     q: "Mais do que um salão, encontrei profissionais que realmente se preocupam com a beleza e a autoestima de cada cliente. Recomendo de olhos fechados.",
-    a: "Renata Oliveira",
+    a: "Renato Oliveira",
     r: "Cliente fiel",
   },
 ];
