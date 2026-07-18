@@ -90,7 +90,7 @@ function Sobre() {
             <p className="text-base leading-relaxed text-zinc-700 dark:text-zinc-300 md:text-lg">
               O{" "}
               <strong className="text-zinc-900 font-semibold dark:text-zinc-50">
-                SALÃO CÍNTIA
+                SALÃO da CÍNTIA
               </strong>{" "}
               nasceu da minha paixão por cuidar da autoestima e realçar a beleza
               de cada cliente. Há mais de 11 anos, dedico minha trajetória a
