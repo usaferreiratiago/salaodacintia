@@ -52,7 +52,7 @@ const allProjects = [
   },
   {
     img: a2,
-    title: "Barba e Acabamento",
+    title: "Acabamento",
     type: "Modelagem, alinhamento e acabamento para um visual impecável",
     valor: "Sob consulta",
   },
