@@ -64,7 +64,7 @@ function Sobre() {
       <PageHeader
         eyebrow="— 01 / Sobre"
         title="Beleza, cuidado e autoestima em cada atendimento."
-        intro="Com mais de 11 anos de experiência no mercado da beleza, o SALÃO CÍNTIA transforma a autoestima de cada cliente por meio de um atendimento personalizado, técnicas atualizadas e serviços de excelência. Cada atendimento é realizado com dedicação, cuidado e atenção aos mínimos detalhes, proporcionando beleza, bem-estar e resultados que valorizam a essência de cada pessoa."
+        intro="Com mais de 11 anos de experiência no mercado da beleza, o SALÃO da CÍNTIA transforma a autoestima de cada cliente por meio de um atendimento personalizado, técnicas atualizadas e serviços de excelência. Cada atendimento é realizado com dedicação, cuidado e atenção aos mínimos detalhes, proporcionando beleza, bem-estar e resultados que valorizam a essência de cada pessoa."
       />
       {/* Seção com suporte completo a cores adaptáveis */}
       <section className="bg-white dark:bg-zinc-950 text-zinc-900 dark:text-zinc-100 py-12 sm:py-20 lg:py-28 transition-colors duration-300">
