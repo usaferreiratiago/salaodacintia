@@ -28,7 +28,7 @@ export const Route = createFileRoute()({
 
 const testimonials = [
   {
-    q: "Sempre saio do Salão Cíntia me sentindo mais bonita e confiante. O atendimento é impecável e o resultado supera minhas expectativas em cada visita.",
+    q: "Sempre saio do Salão Cíntia me sentindo mais bonito e confiante. O atendimento é impecável e o resultado supera minhas expectativas em cada visita.",
     a: "Marcos Souza",
     r: "Cliente há 5 anos",
   },
@@ -38,7 +38,7 @@ const testimonials = [
     r: "Corte e Coloração",
   },
   {
-    q: "Além do excelente atendimento, o ambiente é acolhedor e muito agradável. É um momento de cuidado comigo mesma que faço questão de repetir.",
+    q: "Além do excelente atendimento, o ambiente é acolhedor e muito agradável. É um momento de cuidado comigo mesmo que faço questão de repetir.",
     a: "Fernando Costa",
     r: "Escova e Tratamento Capilar",
   },
