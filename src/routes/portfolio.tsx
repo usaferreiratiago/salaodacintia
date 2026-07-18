@@ -180,7 +180,7 @@ function Portfolio() {
                       {p.valor}
                     </div>
                     <Link
-                      to=".."
+                      to="/contato"
                       aria-label="Falar sobre obra similar"
                       className="p-2 -mr-2"
                     >
