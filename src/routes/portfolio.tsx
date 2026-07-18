@@ -7,7 +7,7 @@ import {
   ArrowLeft,
 } from "lucide-react";
 import { useState } from "react";
-import a1 from "@/assets/sal5.jpg";
+import a1 from "@/assets/sal1.jpg";
 import a2 from "@/assets/sal2.jpg";
 import a3 from "@/assets/sal3.jpg";
 import a4 from "@/assets/sal4.jpg";
